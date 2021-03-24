@@ -1,0 +1,38 @@
+/* Example styling of a h1 element */
+body {
+  background-color:rgb(175, 174, 174);
+
+}
+h1 {
+  color:black;
+  font-size: 52px;
+  font-weight: 700;
+  font-family: Helvetica, sans-serif;
+  padding: 20px;
+}
+
+.textbox {
+  background-color: white;
+  padding: 10px;
+  width: 600px;
+}
+
+  .paragraf {
+  color: black;
+  font-size: 20px;
+  font-family:Calibri, sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  color: rgb(221, 220, 220);
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  padding: 15px;
+}
+
+.lankar {
+ color: black;
+ font-size: 20px;
+ font-family: Calibri, sans-serif;
+}
